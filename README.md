@@ -80,11 +80,6 @@ ecommerce-churn-prediction
 ├── notebooks
 │   └── ecommerce_churn_project.ipynb
 │
-├── data
-│   ├── E_Commerce_Dataset For MYSQL.xlsx
-│   ├── E_Commerce_Dataset For POWERBI.xlsx
-│   └── ecommerce_clean For Python.csv
-│
 └── dashboards
     └── ecommerce_churn_dashboard.pbix
 ```
